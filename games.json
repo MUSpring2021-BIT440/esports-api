@@ -1,11 +1,13 @@
-[
-  {
-    "name": "League of Legends" 
-  },
-  {
-    "name": "Counter Strike" 
-  },
-  {
-    "name": "Dota2" 
-  }
-]
+{
+  "games": [
+    {
+      "name": "League of Legends" 
+    },
+    {
+      "name": "Counter Strike" 
+    },
+    {
+      "name": "Dota2" 
+    }
+  ]
+}
